@@ -1,8 +1,8 @@
 # ICQX
 Браузер, который постоянно обновляется
 
+# Сайт проекта
+https://sites.google.com/view/icqx
 
-https://sites.google.com/view/icqx - сайт проекта
-
-
-https://github.com/SeogleRu/ICQX - репозиторий в GitHub
+# Репозиторий в GitHub
+https://github.com/SeogleRu/ICQX
