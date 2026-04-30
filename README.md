@@ -12,3 +12,6 @@ https://sites.google.com/view/icqx/minishop
 
 # Справочный сайт
 https://seogleru.github.io/ICQX/
+
+# Справка
+Скоро
